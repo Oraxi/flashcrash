@@ -39,11 +39,11 @@ Follow these steps to execute the project:
 1. **Load the data:**  
    Run `data_loading.ipynb` to import and structure the dataset.
 
-2. **Explore the data:**  
-   Execute `data_exploration.ipynb` to understand the dataset characteristics.
-
-3. **Preprocess the data:**  
+2. **Preprocess the data:**  
    Use `data_preprocessing.ipynb` to clean and prepare the data.
+
+3. **Explore the data:**  
+   Execute `data_exploration.ipynb` to understand the dataset characteristics.
 
 4. **Detect flash crashes:**  
    Run `flash_crash_detection.ipynb` to identify and analyze flash crashes.
