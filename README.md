@@ -26,6 +26,12 @@ The project consists of the following Jupyter Notebooks:
    - Uses techniques such as statistical thresholds, machine learning models, and anomaly detection.
    - Evaluates model performance and visualizes detected crashes.
 
+
+## Data Availability
+The dataset used in this project can be found at the following link:  
+[Download Data](https://drive.switch.ch/index.php/s/0X3Je6DauQRzD2r)
+
+
 ## Prerequisites
 Before running the notebooks, ensure you have the following dependencies installed:
 
@@ -52,5 +58,7 @@ Follow these steps to execute the project:
 - Summary statistics and visualizations of market data.
 - Processed datasets ready for analysis.
 - Detected flash crash events with timestamps and visual representations.
+
+
 
 
