@@ -1,0 +1,26 @@
+2025-01-23 18:13:20,648 - INFO - Scanning for processed CSV files...
+2025-01-23 18:13:20,865 - INFO - Total processed files found: 7763
+2025-01-23 18:13:20,869 - INFO - Total tickers to process: 392
+2025-01-23 18:13:21,427 - INFO - No events to plot for HSY: Threshold-Based Detection on 2010-05-03.
+2025-01-23 18:13:21,985 - INFO - No events to plot for HSY: CUSUM Detection on 2010-05-03.
+2025-01-23 18:13:24,963 - INFO - No events to plot for HSY: Threshold-Based Detection on 2010-05-06.
+2025-01-23 18:13:25,497 - INFO - No events to plot for HSY: CUSUM Detection on 2010-05-06.
+2025-01-23 18:13:26,755 - INFO - No events to plot for DRE: Threshold-Based Detection on 2010-05-03.
+2025-01-23 18:13:27,284 - INFO - No events to plot for DRE: CUSUM Detection on 2010-05-03.
+2025-01-23 18:13:31,813 - INFO - No events to plot for IEX: Threshold-Based Detection on 2010-05-03.
+2025-01-23 18:13:32,387 - INFO - No events to plot for IEX: CUSUM Detection on 2010-05-03.
+2025-01-23 18:13:35,136 - INFO - No events to plot for IEX: Threshold-Based Detection on 2010-05-06.
+2025-01-23 18:13:35,668 - INFO - No events to plot for IEX: CUSUM Detection on 2010-05-06.
+2025-01-23 18:13:36,873 - INFO - No events to plot for KMX: Threshold-Based Detection on 2010-05-03.
+2025-01-23 18:13:37,411 - INFO - No events to plot for KMX: CUSUM Detection on 2010-05-03.
+2025-01-23 18:13:40,158 - INFO - No events to plot for KMX: Threshold-Based Detection on 2010-05-06.
+2025-01-23 18:13:41,882 - INFO - No events to plot for EFX: Threshold-Based Detection on 2010-05-03.
+2025-01-23 18:13:41,984 - INFO - No events to plot for EFX: Z-Score Detection on 2010-05-03.
+2025-01-23 18:13:42,404 - INFO - No events to plot for EFX: CUSUM Detection on 2010-05-03.
+2025-01-23 18:17:29,981 - INFO - Scanning for processed CSV files...
+2025-01-23 18:17:30,190 - INFO - Total processed files found: 7763
+2025-01-23 18:17:30,194 - INFO - Total tickers to process: 392
+2025-01-23 18:21:20,618 - ERROR - An error occurred while processing ticker NII: Expected n_neighbors < n_samples_fit, but n_neighbors = 1, n_samples_fit = 1, n_samples = 1
+2025-01-23 18:25:27,206 - WARNING - No flash crash day data for ticker MBF.
+2025-01-23 18:32:57,760 - ERROR - An error occurred while processing ticker MSS: Expected n_neighbors < n_samples_fit, but n_neighbors = 1, n_samples_fit = 1, n_samples = 1
+2025-01-23 18:35:11,878 - INFO - Aggregate results saved to 'aggregate_flash_crash_detection_results.csv'.
